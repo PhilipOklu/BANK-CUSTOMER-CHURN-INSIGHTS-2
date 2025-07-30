@@ -1,36 +1,41 @@
 # BANK-CUSTOMER-CHURN-INSIGHTS-2
 
-This repository contains a Power BI dashboard providing comprehensive insights into bank customer churn behavior. The analysis highlights critical factors such as:
+# Bank Customer Churn Insights
 
-- Churn Rate by Gender and Marital Status
-- Key Reasons for Churn
-- Retention Patterns
-- Loan Loss Distribution
-- Influence of Education Level and Complaints on Churn
+This repository contains a Power BI dashboard that provides visual insights into bank customer churn behavior. The dashboard explores patterns in customer retention and attrition across demographics and financial factors.
 
-## 📊 Dashboard Highlights
+---
+
+## 📊 Dashboard Preview
+
+### 🔹 Page 1: Overview and Key Metrics
+![Bank Churn Dashboard Page 1](https://github.com/PhilipOklu/bank-customer-churn-insights/blob/main/BANK%20CHURN%202A.JPG?raw=true)
+
+### 🔹 Page 2: Financial and Demographic Analysis
+![Bank Churn Dashboard Page 2](https://github.com/PhilipOklu/bank-customer-churn-insights/blob/main/BANK%20CHURN%202B.JPG?raw=true)
+
+---
+
+## 🔍 Key Insights
 
 - **Total Customers:** 116K
-- **Churn Rate:** 12.19%
+- **Churned Customers:** 14K (12.19% Churn Rate)
+- **Retained Customers:** 102K (87.81% Retention Rate)
 - **Total Loan Loss:** $35.88M
-- **Top Churn Reasons:** Service Issues, Account Closure, Relocation
+- **Top Churn Reasons:**  
+  - Service Issues (25.35%)  
+  - Account Closure (25.17%)  
+  - Relocation (25.03%)  
+  - Better Offers Elsewhere (24.44%)
 
-## 📁 Files
+---
 
-- BANK CHURN 2A.JPG – Page 1 of the dashboard https://github.com/PhilipOklu/BANK-CUSTOMER-CHURN-INSIGHTS-2/blob/main/BANK%20CHURN%202A.JPG?raw=true
-- BANK CHURN 2B.JPG – Page 2 of the dashboard
+## 🧠 Analysis Breakdown
 
-## 🛠 Tools Used
-
-- Power BI
-- Excel (for data prep)
-- Git & GitHub
-
-## 📬 Contact
-
-Philip Oklu  
-📧 philo.deyes@gmail.com  
-📍 Abeokuta, Nigeria
+- **Churn by Gender & Marital Status**
+- **Customer Retention Rates**
+- **Churn by Education Level**
+- **Impact of Compl**
 
 ---
 powerbi, customer-churn, data-analysis, dashboard, business-intelligence, bank-analytics
