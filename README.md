@@ -17,8 +17,8 @@ This repository contains a Power BI dashboard providing comprehensive insights i
 
 ## 📁 Files
 
-- `BANK CHURN 2A.JPG` – Page 1 of the dashboard
-- `BANK CHURN 2B.JPG` – Page 2 of the dashboard
+- BANK CHURN 2A.JPG – Page 1 of the dashboard
+- BANK CHURN 2B.JPG – Page 2 of the dashboard
 
 ## 🛠 Tools Used
 
@@ -33,4 +33,4 @@ Philip Oklu
 📍 Abeokuta, Nigeria
 
 ---
-
+powerbi, customer-churn, data-analysis, dashboard, business-intelligence, bank-analytics
