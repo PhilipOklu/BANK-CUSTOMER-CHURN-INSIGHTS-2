@@ -17,7 +17,7 @@ This repository contains a Power BI dashboard providing comprehensive insights i
 
 ## 📁 Files
 
-- BANK CHURN 2A.JPG – Page 1 of the dashboard
+- BANK CHURN 2A.JPG – Page 1 of the dashboard https://github.com/PhilipOklu/BANK-CUSTOMER-CHURN-INSIGHTS-2/blob/main/BANK%20CHURN%202A.JPG?raw=true
 - BANK CHURN 2B.JPG – Page 2 of the dashboard
 
 ## 🛠 Tools Used
