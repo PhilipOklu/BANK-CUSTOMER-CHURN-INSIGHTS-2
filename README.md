@@ -9,10 +9,10 @@ This repository contains a Power BI dashboard that provides visual insights into
 ## 📊 Dashboard Preview
 
 ### 🔹 Page 1: Overview and Key Metrics
-![Dashboard Preview](BANK CHURN 2A.JPG)
+![Dashboard Preview](BANK-CHURN-2A.JPG)
 
 ### 🔹 Page 2: Financial and Demographic Analysis
-![Dashboard Preview](BANK CHURN 2B.JPG)
+![Dashboard Preview](BANK-CHURN-2B.JPG)
 
 ---
 
